@@ -1,0 +1,187 @@
+		html {
+            position: relative;
+            min-height: 100%;
+		}
+		
+		body {
+            background-color: #b2b2b2;
+			 margin: 0 0 100px;
+			padding: 0px;
+			font-size: 13px;
+			font-family: 'Raleway', sans-serif;
+		}
+		
+		#alttaraf a {
+			color:#333;
+		}
+		h2 {
+			font-size: 25px;
+			margin-bottom: 20px;
+			color: #653737;
+		}
+		
+
+		#container2{
+			margin-left: auto;
+			margin-right: auto;
+			width: 50em;
+			padding: 5px 20px 5px 25px;
+		    width: 50%;
+		    height: 50%;
+		    background-color:#FFF;
+
+		}
+        #container2 textarea{
+            max-width: 730px;
+            height: auto;
+            width: 100%;
+
+		}
+        #container2 textarea#how{
+            max-width: 730px;
+            height: 350px;
+            width: 100%;
+
+		}
+		#container{
+			margin-left: auto;
+			margin-right: auto;
+			width: 50em;
+			padding: 5px 20px 5px 25px;
+		    width: 50%;
+		    height: 50%;
+		    
+		    background-color:#FFF;
+		}
+		input, textarea#text {
+			padding: 10px;
+			border: 1px solid #E5E5E5;
+			width: 100%;
+			max-width: 200px;
+			color: #999999;
+			box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+			-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+			-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;		
+		}
+		textarea#text {
+			font-family: 'Raleway', sans-serif;
+			width: 100%;
+			height: 150px;
+			max-width: 400px;
+			line-height: 18px;
+		}
+		input:hover, textarea:hover,
+		input:focus, textarea:focus {
+			border-color: 1px solid #C9C9C9;
+			box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+			-moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+			-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;	
+		}
+        
+
+		.form label {
+			margin-left: 10px;
+			color: #999999;
+		}
+		.submit input {
+			width: 100%;
+			max-width: 100px; 
+			height: 40px;
+			background-color: #653737; 
+			color: #FFF;
+			border-radius: 3px; 
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;		
+		}
+
+		.check input {
+			width:auto;
+			margin: 0 0 0 5;
+			padding: 0;
+		}
+		
+		.sec select {
+			border: 1px solid #E5E5E5;
+			width: 100%;
+			max-width: 225px;
+			height: 35px;
+			color: #999999;
+			box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+			-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+			-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;		
+		}
+		
+		.footer {
+			color: #fff;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: auto;
+            width: 100%;
+                }
+		
+		.footer p {
+			margin-left: 25%;
+			margin-right:25%;
+		}
+		
+		.footer a {
+			margin-right:3px;
+			float:right;
+		}
+		#wrapper {
+            top:0;left:0;
+            overflow:hidden;
+        }
+
+        #mask {
+            width:500%;
+            height:100%;
+
+        }
+
+        .item {
+            width:20%;
+            height:100%;
+            float:left;
+
+        }
+
+
+        .content {
+            margin:150px auto;
+
+        }
+    
+        .selected {
+            background:#fff;
+            font-weight:700;
+        }
+
+        .clear {
+            clear:both;
+        }
+
+        .linkler {
+            margin-bottom:20px;
+        }
+
+        .linkler .active {
+            text-decoration: underline; 
+        }
+
+        .linkler a {
+            margin-right: 20px;
+            text-decoration: none;
+            color: #fff;
+        }
+
+        .linkler a:hover {
+            text-decoration: underline; 
+           
+        }
+        .icerik {
+            margin: 0 auto;
+            margin-left:10%;
+            margin-right:10%;
+        }
