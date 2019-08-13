@@ -6,16 +6,17 @@ SMTP provides a set of codes that simplify the communication of email messages b
 
 Anyway, sending with SMTP and autenthications, you are actually sending the messages using an existing e-mail address - this way you have more chances to see the contact messages in your inbox without beeing filtered/blocked/rejected by the email services providers. I'm in the web hosting industry for 10+ years, and I'm surprised to see "developers" that don't know how to switch from mail(); to SMTP. So, the purpose is to offer them a little help in this matter with this SMTP contact form example. Feel free to download it and use it. Cheers!
 
-Easy integration/instructions into your current PHP site
-Progressively enhanced (fully functional without JS or CSS)
-Field type validation
-Required field validation
-Repeat submission prevention
-No database required
-Mobile Friendly
-No Refresh Page and save your bandwith
+- Easy integration/instructions into your current PHP site
+- Progressively enhanced (fully functional without JS or CSS)
+- Field type validation
+- Required field validation
+- Repeat submission prevention
+- No database required
+- Mobile Friendly
+- No Refresh Page and save your bandwith
+
 Server & Browser Support
 
-PHP5+
-IE10+
-Latest Chrome,Firefox,Safari
+- PHP5+
+- IE10+
+- Latest Chrome,Firefox,Safari
